@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到俞师傅的站点', url: 'https://www.zackyu.com/' },
-    { title: '发帖交流请前往论坛:光固化吧', url: 'https://tieba.baidu.com/f?ie=utf-8&kw=%E5%85%89%E5%9B%BA%E5%8C%96' }
+    { title: '测试信息1', url: 'https: //blog.tangly1024.com' },
+    { title: '测试信息2', url: 'https: //blog.tangly1024.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
